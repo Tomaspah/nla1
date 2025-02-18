@@ -1,5 +1,6 @@
 # Numerická lineární algebra 1
 Repository for teaching exercises from Numerical Linear Algebra 1 at VSB-Technical university of Ostrava, Faculty of Electrical Engineering and Computer Science, Department of Applied Mathematics. 
+
 Adresář pro výuku cvičení z Numerické lineární algebry 1 na Vysoké škole Báňské - Technické univerzitě Ostrava, Fakultě elektrotechniky a informatiky, Katedře aplikované matematiky. 
 
 ## Čas a místo výuky
@@ -32,4 +33,4 @@ V případě problémů se zprovozněním Pythonu lokálně na vašem stroji neb
 
 ---
 
-Velké díky Ing. Michalovi Mertovi, Ph.D. [Ing. Michalovi Mertovi, Ph.D.](https://homel.vsb.cz/~mer126/), od kterého přebírám nemalou část kódů pro výuku NLA1. 
+Velké díky [Ing. Michalovi Mertovi, Ph.D.](https://homel.vsb.cz/~mer126/), od kterého přebírám nemalou část kódů pro výuku NLA1. 
