@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 
 # Ignore specific Jupyter Notebook file
-cv_1_res.ipynb
+cv_3_res.ipynb
+cv_3_du1_res.ipynb
