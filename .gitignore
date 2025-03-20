@@ -173,5 +173,5 @@ cython_debug/
 # Ignore specific Jupyter Notebook file
 cv_3b_LUP_.ipynb
 cv_3b_LUP_res_.ipynb
-cv_4a_LDLT_res.ipynb
-cv_4b_LLT_res.ipynb
+cv5_QR_res.ipynb
+cv5_QR_du3_res.ipynb
